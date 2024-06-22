@@ -11,7 +11,7 @@ const ContactPage = () => {
           className="absolute inset-0 -z-10 h-full w-full fill-neutral-100 stroke-neutral-950/5 [mask-image:linear-gradient(to_bottom_left,white_50%,transparent_60%)]"
           yOffset={-256}
         />
-        <div className="8">
+        <div className="mt-8">
           <div className="bg-white rounded-lg shadow-lg p-8">
             <ContactForm />
           </div>
